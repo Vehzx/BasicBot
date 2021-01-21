@@ -23,3 +23,4 @@ Discord bot/app creation: https://discord.com/developers/applications \
 Creating a discord bot in .js documentation: https://discordjs.guide/creating-your-bot/adding-more-commands.html \
 BasicBot discord support: https://discord.gg/2fM6tcXm6S
 ![Discord Banner 3](https://discordapp.com/api/guilds/[801809001821372446]/widget.png?style=banner3)
+![Discord Banner 1](https://discordapp.com/api/guilds/801809001821372446/widget.png?style=banner1)
