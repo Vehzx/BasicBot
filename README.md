@@ -22,4 +22,4 @@ Discord bot/app creation: https://discord.com/developers/applications \
 Creating a discord bot in .js documentation: https://discordjs.guide/creating-your-bot/adding-more-commands.html \
 BasicBot discord support: https://discord.gg/2fM6tcXm6S
 
-<iframe src="https://discord.com/widget?id=801809001821372446&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://discord.com/api/guilds/801809001821372446/widget.json
