@@ -1,6 +1,7 @@
+![alt text](https://i.imgur.com/gIw1HVE.png)
 # BasicBot
 
-BasicBot is a discord bot template, created for others to use as a starting point in creating their own discord bot.
+BasicBot is a discord bot template made with .js, created for others to use as a starting point in creating their own discord bot.
 
 # Status
 
