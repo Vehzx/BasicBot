@@ -20,4 +20,4 @@ Documentations will also be linked below, discussions are open on the github pag
 
 Discord bot/app creation: https://discord.com/developers/applications \
 Creating a discord bot in .js documentation: https://discordjs.guide/creating-your-bot/adding-more-commands.html \
-BasicBot discord support: https://discord.gg/2fM6tcXm6S \
+BasicBot discord support: https://discord.gg/2fM6tcXm6S
