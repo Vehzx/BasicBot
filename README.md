@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/gIw1HVE.png)
 
-![Discord Shield](https://discordapp.com/api/guilds/[801809001821372446]/widget.png?style=shield)
+![Discord Shield](https://discordapp.com/api/guilds/801809001821372446/widget.png?style=shield)
 # BasicBot
 
 BasicBot is a discord bot template made with .js, created for others to use as a starting point in creating their own discord bot.
@@ -22,5 +22,4 @@ Documentations will also be linked below, discussions are open on the github pag
 Discord bot/app creation: https://discord.com/developers/applications \
 Creating a discord bot in .js documentation: https://discordjs.guide/creating-your-bot/adding-more-commands.html \
 BasicBot discord support: https://discord.gg/2fM6tcXm6S
-![Discord Banner 3](https://discordapp.com/api/guilds/[801809001821372446]/widget.png?style=banner3)
-![Discord Banner 1](https://discordapp.com/api/guilds/801809001821372446/widget.png?style=banner1)
+![Discord Banner 3](https://discordapp.com/api/guilds/801809001821372446/widget.png?style=banner3)
