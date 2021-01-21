@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "0.1.0",
+  "description": "Open source Discord Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vehzx/DiscordBot.git"
+  },
+  "author": "Vehzx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vehzx/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/Vehzx/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
